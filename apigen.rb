@@ -5,7 +5,7 @@
 class Apigen < Formula
   desc ""
   homepage ""
-  url "https://github.com/luca3104/apigen/archive/v0.0.1.tar.gz"
+  url "https://github.com/luca3104/apigen/archive/v0.0.2.tar.gz"
   sha256 "3b1f8580d1ce119ed1c72b1e1582b4784b256a190adb1a78af2bac1ce8d0488e"
 
   # depends_on "cmake" => :build
